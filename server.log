@@ -1,0 +1,157 @@
+2019-04-01 [19:44:24] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-01 [19:44:24] [Server thread/INFO]: Loading server properties...
+2019-04-01 [19:44:24] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-01 [19:44:24] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-01 [19:44:24] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-01 [19:44:24] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-01 [19:44:24] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-01 [19:44:24] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-01 [19:44:24] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-01 [19:44:24] [Server thread/INFO]: Loading resource packs...
+2019-04-01 [19:44:24] [Server thread/NOTICE]: World "world" not found
+2019-04-01 [19:44:24] [Server thread/INFO]: Preparing world "world"
+2019-04-01 [19:44:24] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2019-04-01 [19:44:24] [Server thread/INFO]: Starting GS4 status listener
+2019-04-01 [19:44:24] [Server thread/INFO]: Setting query port to 19132
+2019-04-01 [19:44:24] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-01 [19:44:24] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-01 [19:44:24] [Server thread/INFO]: Done (0.32s)! For help, type "help" or "?"
+2019-04-01 [19:55:59] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-01 [19:55:59] [Server thread/INFO]: Loading server properties...
+2019-04-01 [19:55:59] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-01 [19:55:59] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-01 [19:55:59] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-01 [19:55:59] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-01 [19:55:59] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-01 [19:55:59] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-01 [19:55:59] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-01 [19:55:59] [Server thread/INFO]: Loading resource packs...
+2019-04-01 [19:55:59] [Server thread/INFO]: Preparing world "world"
+2019-04-01 [19:55:59] [Server thread/INFO]: Starting GS4 status listener
+2019-04-01 [19:55:59] [Server thread/INFO]: Setting query port to 19132
+2019-04-01 [19:55:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-01 [19:55:59] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-01 [19:55:59] [Server thread/INFO]: Done (0.284s)! For help, type "help" or "?"
+2019-04-01 [20:41:16] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-01 [20:41:16] [Server thread/INFO]: Loading server properties...
+2019-04-01 [20:41:16] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-01 [20:41:16] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-01 [20:41:16] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-01 [20:41:16] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-01 [20:41:16] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-01 [20:41:16] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-01 [20:41:16] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-01 [20:41:17] [Server thread/INFO]: Loading resource packs...
+2019-04-01 [20:41:17] [Server thread/INFO]: Preparing world "world"
+2019-04-01 [20:41:17] [Server thread/INFO]: Starting GS4 status listener
+2019-04-01 [20:41:17] [Server thread/INFO]: Setting query port to 19132
+2019-04-01 [20:41:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-01 [20:41:17] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-01 [20:41:17] [Server thread/INFO]: Done (0.27s)! For help, type "help" or "?"
+2019-04-01 [20:42:07] [Server thread/NOTICE]: Player data not found for "kareemjglover", creating new profile
+2019-04-01 [20:42:08] [Server thread/INFO]: kareemjglover[/64.9.247.152:2055] logged in with entity id 1 at (world, 256, 70, 256)
+2019-04-01 [20:44:15] [Server thread/INFO]: kareemjglover[/64.9.247.152:2055] logged out due to generic reason
+2019-04-02 [03:00:10] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [03:00:10] [Server thread/INFO]: Loading server properties...
+2019-04-02 [03:00:10] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [03:00:10] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [03:00:10] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [03:00:10] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [03:00:10] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [03:00:10] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [03:00:10] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [03:00:10] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [03:00:10] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [03:00:10] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [03:00:10] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [03:00:10] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [03:00:10] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [03:00:10] [Server thread/INFO]: Done (0.253s)! For help, type "help" or "?"
+2019-04-02 [03:00:36] [Server thread/NOTICE]: Player data not found for "kareemjglover", creating new profile
+2019-04-02 [03:00:37] [Server thread/INFO]: kareemjglover[/100.38.223.98:53796] logged in with entity id 1 at (world, 256, 70, 256)
+2019-04-02 [03:00:39] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [03:01:33] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [03:01:33] [Server thread/INFO]: kareemjglover[/100.38.223.98:53796] logged out due to client disconnect
+2019-04-02 [03:05:25] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [03:05:25] [Server thread/INFO]: Loading server properties...
+2019-04-02 [03:05:25] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [03:05:25] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [03:05:25] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [03:05:25] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [03:05:25] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [03:05:25] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [03:05:25] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [03:05:25] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [03:05:25] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [03:05:25] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [03:05:25] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [03:05:25] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [03:05:25] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [03:05:25] [Server thread/INFO]: Done (0.265s)! For help, type "help" or "?"
+2019-04-02 [03:05:48] [Server thread/INFO]: kareemjglover[/100.38.223.98:53796] logged in with entity id 1 at (world, 388.5053, 65, 284.0875)
+2019-04-02 [03:05:51] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [03:07:04] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [03:07:04] [Server thread/CRITICAL]: TypeError: "strpos() expects parameter 1 to be string, null given" (EXCEPTION) in "src/pocketmine/CrashDump" at line 240
+2019-04-02 [03:07:04] [Server thread/DEBUG]: #0 src/pocketmine/CrashDump(240): strpos(NULL , string .)
+2019-04-02 [03:07:04] [Server thread/DEBUG]: #1 src/pocketmine/CrashDump(122): pocketmine\CrashDump->baseCrash()
+2019-04-02 [03:07:04] [Server thread/DEBUG]: #2 src/pocketmine/Server(2246): pocketmine\CrashDump->__construct(pocketmine\Server object)
+2019-04-02 [03:07:04] [Server thread/DEBUG]: #3 (): pocketmine\Server->crashDump()
+2019-04-02 [03:07:04] [Server thread/CRITICAL]: Could not create crash dump: strpos() expects parameter 1 to be string, null given
+2019-04-02 [03:07:04] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [03:07:04] [Server thread/INFO]: kareemjglover[/100.38.223.98:53796] logged out due to Server closed
+2019-04-02 [03:07:04] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [03:14:36] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [03:14:36] [Server thread/INFO]: Loading server properties...
+2019-04-02 [03:14:36] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [03:14:36] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [03:14:36] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [03:14:36] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [03:14:36] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [03:14:36] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [03:14:36] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [03:14:36] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [03:14:36] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [03:14:36] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [03:14:36] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [03:14:36] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [03:14:36] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [03:14:36] [Server thread/INFO]: Done (0.288s)! For help, type "help" or "?"
+2019-04-02 [03:15:39] [Server thread/INFO]: kareemjglover[/100.38.223.98:64011] logged in with entity id 1 at (world, 461.8561, 65, 282.5154)
+2019-04-02 [03:15:42] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [03:16:30] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [03:16:30] [Server thread/INFO]: kareemjglover[/100.38.223.98:64011] logged out due to client disconnect
+2019-04-02 [11:47:26] [Server thread/NOTICE]: Player data not found for "theawesomekels", creating new profile
+2019-04-02 [11:47:27] [Server thread/INFO]: TheAwesomeKELS[/100.38.223.98:58928] logged in with entity id 2 at (world, 256, 65, 256)
+2019-04-02 [11:47:30] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-02 [11:48:32] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-02 [11:48:32] [Server thread/INFO]: TheAwesomeKELS[/100.38.223.98:58928] logged out due to client disconnect
+2019-04-02 [13:34:53] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [13:34:53] [Server thread/CRITICAL]: TypeError: "strpos() expects parameter 1 to be string, null given" (EXCEPTION) in "src/pocketmine/CrashDump" at line 240
+2019-04-02 [13:34:53] [Server thread/DEBUG]: #0 src/pocketmine/CrashDump(240): strpos(NULL , string .)
+2019-04-02 [13:34:53] [Server thread/DEBUG]: #1 src/pocketmine/CrashDump(122): pocketmine\CrashDump->baseCrash()
+2019-04-02 [13:34:53] [Server thread/DEBUG]: #2 src/pocketmine/Server(2246): pocketmine\CrashDump->__construct(pocketmine\Server object)
+2019-04-02 [13:34:53] [Server thread/DEBUG]: #3 (): pocketmine\Server->crashDump()
+2019-04-02 [13:34:53] [Server thread/CRITICAL]: Could not create crash dump: strpos() expects parameter 1 to be string, null given
+2019-04-02 [13:34:53] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [13:35:28] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [13:35:28] [Server thread/INFO]: Loading server properties...
+2019-04-02 [13:35:28] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [13:35:28] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [13:35:28] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [13:35:28] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [13:35:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [13:35:29] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [13:35:29] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [13:35:29] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [13:35:29] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [13:35:29] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [13:35:29] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [13:35:29] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [13:35:29] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [13:35:29] [Server thread/INFO]: Done (0.266s)! For help, type "help" or "?"
+2019-04-02 [13:36:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-02 [13:40:19] [Server thread/INFO]: kareemjglover[/100.38.223.98:55648] logged in with entity id 1 at (world, 624.4912, 67, 326.7351)
+2019-04-02 [13:40:33] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [13:47:16] [Server thread/INFO]: <kareemjglover> ...
+2019-04-02 [13:48:38] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [13:48:38] [Server thread/INFO]: kareemjglover[/100.38.223.98:55648] logged out due to client disconnect
