@@ -155,3 +155,529 @@
 2019-04-02 [13:47:16] [Server thread/INFO]: <kareemjglover> ...
 2019-04-02 [13:48:38] [Server thread/INFO]: kareemjglover left the game
 2019-04-02 [13:48:38] [Server thread/INFO]: kareemjglover[/100.38.223.98:55648] logged out due to client disconnect
+2019-04-02 [14:05:44] [Server thread/INFO]: kareemjglover[/100.38.223.98:62262] logged in with entity id 2 at (world, 436.3784, 66, 386.1244)
+2019-04-02 [14:05:56] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [14:06:28] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [14:06:28] [Server thread/INFO]: kareemjglover[/100.38.223.98:62262] logged out due to timeout
+2019-04-02 [16:46:12] [Server thread/INFO]: kareemjglover[/100.38.223.98:56198] logged in with entity id 3 at (world, 447.928, 67, 402.9289)
+2019-04-02 [16:46:15] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [16:50:15] [Server thread/INFO]: <kareemjglover> help
+2019-04-02 [16:54:47] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [16:54:47] [Server thread/INFO]: kareemjglover[/100.38.223.98:56198] logged out due to client disconnect
+2019-04-02 [16:55:59] [Server thread/INFO]: kareemjglover[/100.38.223.98:56198] logged in with entity id 5 at (world, 269.0511, 71, 429.8873)
+2019-04-02 [16:56:01] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [16:56:16] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [16:56:16] [Server thread/INFO]: kareemjglover[/100.38.223.98:56198] logged out due to client disconnect
+2019-04-02 [18:42:40] [Server thread/INFO]: kareemjglover[/100.38.223.98:50109] logged in with entity id 6 at (world, 269.0511, 71, 429.8873)
+2019-04-02 [18:43:21] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [18:57:41] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:49447] logged in with entity id 7 at (world, 263.2881, 65, 250.9383)
+2019-04-02 [18:58:15] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-02 [18:59:12] [Server thread/INFO]: kareemjglover[/100.38.223.98:50109] logged out due to generic reason
+2019-04-02 [18:59:12] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:49447] logged out due to generic reason
+2019-04-02 [18:59:31] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [18:59:31] [Server thread/INFO]: Loading server properties...
+2019-04-02 [18:59:31] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [18:59:31] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [18:59:31] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [18:59:31] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [18:59:31] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [18:59:31] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [18:59:31] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [18:59:31] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [18:59:31] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2019-04-02 [18:59:31] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [18:59:31] [RakLibServer thread/CRITICAL]: RuntimeException: "Failed to bind socket: Something else is already running on 0.0.0.0 19132" (EXCEPTION) in "vendor/pocketmine/raklib/src/server/UDPServerSocket" at line 64
+2019-04-02 [18:59:31] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/src/server/RakLibServer(274): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2019-04-02 [18:59:31] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2019-04-02 [18:59:31] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [18:59:31] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [18:59:31] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [18:59:31] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [18:59:31] [Server thread/INFO]: Done (0.289s)! For help, type "help" or "?"
+2019-04-02 [18:59:31] [Server thread/EMERGENCY]: RakLib crashed!
+2019-04-02 [18:59:31] [Server thread/CRITICAL]: Exception: "RakLib Thread crashed" (EXCEPTION) in "src/pocketmine/network/mcpe/RakLibInterface" at line 113
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #0 src/pocketmine/network/Network(88): pocketmine\network\mcpe\RakLibInterface->process()
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #1 src/pocketmine/Server(2545): pocketmine\network\Network->processInterfaces()
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #2 src/pocketmine/Server(2325): pocketmine\Server->tick()
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #3 src/pocketmine/Server(2186): pocketmine\Server->tickProcessor()
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #4 src/pocketmine/Server(1765): pocketmine\Server->start()
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #5 src/pocketmine/PocketMine(250): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/mcpocket/, string /home/mcpocket/plugins/)
+2019-04-02 [18:59:31] [Server thread/DEBUG]: #6 (1): require(string phar:///home/mcpocket/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2019-04-02 [18:59:31] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [18:59:31] [Server thread/EMERGENCY]: Please upload the "/home/mcpocket/crashdumps/Tue_Apr_2-18.59.31-UTC_2019.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2019-04-02 [18:59:32] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/2278189 or use the ID #2278189.
+2019-04-02 [18:59:32] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [19:00:22] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [19:00:22] [Server thread/INFO]: Loading server properties...
+2019-04-02 [19:00:22] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [19:00:22] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [19:00:22] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [19:00:22] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [19:00:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [19:00:22] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [19:00:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [19:00:23] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [19:00:23] [Server thread/ERROR]: Could not load plugin 'PureEntitiesX': Incompatible API version (plugin requires one of: 3.0.0-ALPHA9, 3.0.0-ALPHA10)
+2019-04-02 [19:00:23] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [19:00:23] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [19:00:23] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [19:00:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [19:00:23] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [19:00:23] [Server thread/INFO]: Done (0.264s)! For help, type "help" or "?"
+2019-04-02 [19:02:32] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [19:02:32] [Server thread/INFO]: Loading server properties...
+2019-04-02 [19:02:32] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [19:02:32] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [19:02:32] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [19:02:32] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [19:02:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [19:02:32] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [19:02:32] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [19:02:32] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [19:02:32] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [19:02:32] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [19:02:32] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [19:02:32] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [19:02:32] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [19:02:32] [RakLibServer thread/CRITICAL]: RuntimeException: "Failed to bind socket: Something else is already running on 0.0.0.0 19132" (EXCEPTION) in "vendor/pocketmine/raklib/src/server/UDPServerSocket" at line 64
+2019-04-02 [19:02:32] [RakLibServer thread/DEBUG]: #0 vendor/pocketmine/raklib/src/server/RakLibServer(274): raklib\server\UDPServerSocket->__construct(raklib\utils\InternetAddress object)
+2019-04-02 [19:02:32] [RakLibServer thread/DEBUG]: #1 (): raklib\server\RakLibServer->run()
+2019-04-02 [19:02:32] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [19:02:32] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [19:02:32] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [19:02:32] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [19:02:32] [Server thread/INFO]: Done (0.334s)! For help, type "help" or "?"
+2019-04-02 [19:02:32] [Server thread/EMERGENCY]: RakLib crashed!
+2019-04-02 [19:02:32] [Server thread/CRITICAL]: Exception: "RakLib Thread crashed" (EXCEPTION) in "src/pocketmine/network/mcpe/RakLibInterface" at line 113
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #0 src/pocketmine/network/Network(88): pocketmine\network\mcpe\RakLibInterface->process()
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #1 src/pocketmine/Server(2545): pocketmine\network\Network->processInterfaces()
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #2 src/pocketmine/Server(2325): pocketmine\Server->tick()
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #3 src/pocketmine/Server(2186): pocketmine\Server->tickProcessor()
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #4 src/pocketmine/Server(1765): pocketmine\Server->start()
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #5 src/pocketmine/PocketMine(250): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/mcpocket/, string /home/mcpocket/plugins/)
+2019-04-02 [19:02:32] [Server thread/DEBUG]: #6 (1): require(string phar:///home/mcpocket/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2019-04-02 [19:02:32] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [19:02:32] [Server thread/EMERGENCY]: Please upload the "/home/mcpocket/crashdumps/Tue_Apr_2-19.02.32-UTC_2019.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2019-04-02 [19:02:32] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/2278194 or use the ID #2278194.
+2019-04-02 [19:02:32] [Server thread/INFO]: Disabling PureEntitiesX v0.6.0
+2019-04-02 [19:02:32] [Server thread/NOTICE]: [PureEntitiesX] Disabled!
+2019-04-02 [19:02:32] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [19:03:01] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [19:03:01] [Server thread/INFO]: Loading server properties...
+2019-04-02 [19:03:01] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [19:03:01] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [19:03:01] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [19:03:01] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [19:03:01] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [19:03:01] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [19:03:01] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [19:03:01] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [19:03:01] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [19:03:01] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [19:03:01] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [19:03:01] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [19:03:01] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [19:03:01] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [19:03:01] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [19:03:01] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [19:03:01] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [19:03:01] [Server thread/INFO]: Done (0.303s)! For help, type "help" or "?"
+2019-04-02 [19:03:26] [Server thread/INFO]: kareemjglover[/100.38.223.98:50109] logged in with entity id 1 at (world, 269.0511, 71, 429.8873)
+2019-04-02 [19:03:39] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [19:31:36] [Server thread/INFO]: kareemjglover was slain by Enderman
+2019-04-02 [19:43:19] [Server thread/NOTICE]: Player data not found for "tenhi what up", creating new profile
+2019-04-02 [19:43:20] [Server thread/INFO]: Tenhi what up[/76.252.175.37:52366] logged in with entity id 353 at (world, 256, 65, 256)
+2019-04-02 [19:43:47] [Server thread/INFO]: Tenhi what up joined the game
+2019-04-02 [19:44:06] [Server thread/INFO]: <kareemjglover> hi
+2019-04-02 [19:44:07] [Server thread/INFO]: Tenhi what up left the game
+2019-04-02 [19:44:07] [Server thread/INFO]: Tenhi what up[/76.252.175.37:52366] logged out due to client disconnect
+2019-04-02 [19:50:06] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [19:50:06] [Server thread/INFO]: kareemjglover[/100.38.223.98:50109] logged out due to client disconnect
+2019-04-02 [19:57:53] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [19:57:53] [Server thread/INFO]: Loading server properties...
+2019-04-02 [19:57:53] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [19:57:53] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [19:57:53] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [19:57:53] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [19:57:53] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [19:57:53] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [19:57:53] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [19:57:53] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [19:57:53] [Server thread/ERROR]: Could not load plugin 'BlockPets': Incompatible API version (plugin requires one of: 3.0.0-ALPHA12)
+2019-04-02 [19:57:53] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [19:57:53] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [19:57:53] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [19:57:53] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [19:57:53] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [19:57:53] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [19:57:53] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [19:57:53] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [19:57:53] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [19:57:53] [Server thread/INFO]: Done (0.303s)! For help, type "help" or "?"
+2019-04-02 [19:59:29] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [19:59:29] [Server thread/CRITICAL]: TypeError: "strpos() expects parameter 1 to be string, null given" (EXCEPTION) in "src/pocketmine/CrashDump" at line 240
+2019-04-02 [19:59:29] [Server thread/DEBUG]: #0 src/pocketmine/CrashDump(240): strpos(NULL , string .)
+2019-04-02 [19:59:29] [Server thread/DEBUG]: #1 src/pocketmine/CrashDump(122): pocketmine\CrashDump->baseCrash()
+2019-04-02 [19:59:29] [Server thread/DEBUG]: #2 src/pocketmine/Server(2246): pocketmine\CrashDump->__construct(pocketmine\Server object)
+2019-04-02 [19:59:29] [Server thread/DEBUG]: #3 (): pocketmine\Server->crashDump()
+2019-04-02 [19:59:29] [Server thread/CRITICAL]: Could not create crash dump: strpos() expects parameter 1 to be string, null given
+2019-04-02 [19:59:29] [Server thread/INFO]: Disabling PureEntitiesX v0.6.0
+2019-04-02 [19:59:29] [Server thread/NOTICE]: [PureEntitiesX] Disabled!
+2019-04-02 [19:59:29] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [19:59:40] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [19:59:40] [Server thread/INFO]: Loading server properties...
+2019-04-02 [19:59:40] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [19:59:40] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [19:59:40] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [19:59:40] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [19:59:40] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [19:59:40] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [19:59:40] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [19:59:40] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [19:59:40] [Server thread/ERROR]: Could not load plugin 'BlockPets': Incompatible API version (plugin requires one of: 3.0.0-ALPHA12)
+2019-04-02 [19:59:40] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [19:59:41] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [19:59:41] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [19:59:41] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [19:59:41] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [19:59:41] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [19:59:41] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [19:59:41] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [19:59:41] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [19:59:41] [Server thread/INFO]: Done (0.299s)! For help, type "help" or "?"
+2019-04-02 [20:03:23] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [20:03:23] [Server thread/INFO]: Loading server properties...
+2019-04-02 [20:03:23] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [20:03:23] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [20:03:23] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [20:03:23] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [20:03:23] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [20:03:23] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [20:03:23] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [20:03:23] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [20:03:23] [Server thread/INFO]: Loading BlockPets v1.1.2
+2019-04-02 [20:03:23] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [20:03:23] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [20:03:23] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [20:03:23] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [20:03:24] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [20:03:24] [Server thread/INFO]: Enabling BlockPets v1.1.2
+2019-04-02 [20:03:24] [Server thread/INFO]: [BlockPets] Registered InvMenuHandler
+2019-04-02 [20:03:24] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [20:03:24] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [20:03:24] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [20:03:24] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [20:03:24] [Server thread/INFO]: Done (0.366s)! For help, type "help" or "?"
+2019-04-02 [20:03:24] [Server thread/ERROR]: [BlockPets] SQL PREPARE error: duplicate column name: Visible, for query ALTER TABLE Pets ADD COLUMN Visible BOOL NOT NULL DEFAULT TRUE; | []
+2019-04-02 [20:05:11] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged in with entity id 1 at (world, 645.4877, 64, 858.7)
+2019-04-02 [20:05:56] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [20:06:09] [Server thread/CRITICAL]: RuntimeException: "Tag with name "petOwner" not found and no valid default value given" (EXCEPTION) in "vendor/pocketmine/nbt/src/tag/CompoundTag" at line 189
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #0 vendor/pocketmine/nbt/src/tag/CompoundTag(284): pocketmine\nbt\tag\CompoundTag->getTagValue(string petOwner, string pocketmine\nbt\tag\StringTag, NULL , boolean )
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #1 plugins/BlockPets_dev-269.phar/src/BlockHorizons/BlockPets/pets/BasePet(110): pocketmine\nbt\tag\CompoundTag->getString(string petOwner)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #2 plugins/BlockPets_dev-269.phar/src/BlockHorizons/BlockPets/pets/IrasciblePet(28): BlockHorizons\BlockPets\pets\BasePet->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #3 src/pocketmine/entity/Entity(333): BlockHorizons\BlockPets\pets\IrasciblePet->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #4 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/PureEntities(265): pocketmine\entity\Entity::createEntity(integer 28, pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #5 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/PureEntities(284): revivalpmmp\pureentities\PureEntities::create(integer 28, pocketmine\level\Position object)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #6 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(231): revivalpmmp\pureentities\PureEntities->scheduleCreatureSpawn(pocketmine\level\Position object, integer 28, pocketmine\level\Level object, string hostile, boolean )
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #7 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(292): revivalpmmp\pureentities\task\AutoSpawnTask->spawnPackToLevel(pocketmine\math\Vector3 object, integer 28, pocketmine\level\Level object, string hostile)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #8 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(118): revivalpmmp\pureentities\task\AutoSpawnTask->spawnHostileMob(pocketmine\level\format\Chunk object, pocketmine\level\Level object)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #9 src/pocketmine/scheduler/TaskHandler(159): revivalpmmp\pureentities\task\AutoSpawnTask->onRun(integer 3301)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #10 src/pocketmine/scheduler/TaskScheduler(199): pocketmine\scheduler\TaskHandler->run(integer 3301)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #11 src/pocketmine/plugin/PluginManager(688): pocketmine\scheduler\TaskScheduler->mainThreadHeartbeat(integer 3301)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #12 src/pocketmine/Server(2549): pocketmine\plugin\PluginManager->tickSchedulers(integer 3301)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #13 src/pocketmine/Server(2325): pocketmine\Server->tick()
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #14 src/pocketmine/Server(2186): pocketmine\Server->tickProcessor()
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #15 src/pocketmine/Server(1765): pocketmine\Server->start()
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #16 src/pocketmine/PocketMine(250): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/mcpocket/, string /home/mcpocket/plugins/)
+2019-04-02 [20:06:09] [Server thread/DEBUG]: #17 (1): require(string phar:///home/mcpocket/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2019-04-02 [20:06:09] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [20:06:09] [Server thread/EMERGENCY]: Please upload the "/home/mcpocket/crashdumps/Tue_Apr_2-20.06.09-UTC_2019.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2019-04-02 [20:06:09] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/2278336 or use the ID #2278336.
+2019-04-02 [20:06:09] [Server thread/INFO]: Disabling BlockPets v1.1.2
+2019-04-02 [20:06:09] [Server thread/INFO]: Disabling PureEntitiesX v0.6.0
+2019-04-02 [20:06:09] [Server thread/NOTICE]: [PureEntitiesX] Disabled!
+2019-04-02 [20:06:09] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [20:06:09] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged out due to Server closed
+2019-04-02 [20:06:09] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [20:07:50] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [20:07:50] [Server thread/INFO]: Loading server properties...
+2019-04-02 [20:07:50] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [20:07:50] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [20:07:50] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [20:07:50] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [20:07:50] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [20:07:50] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [20:07:50] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [20:07:50] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [20:07:50] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [20:07:50] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [20:07:50] [Server thread/INFO]: Loading BlockPets v1.1.2
+2019-04-02 [20:07:50] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [20:07:50] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [20:07:50] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [20:07:50] [Server thread/INFO]: Enabling BlockPets v1.1.2
+2019-04-02 [20:07:50] [Server thread/INFO]: [BlockPets] Registered InvMenuHandler
+2019-04-02 [20:07:51] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [20:07:51] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [20:07:51] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [20:07:51] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [20:07:51] [Server thread/INFO]: Done (0.472s)! For help, type "help" or "?"
+2019-04-02 [20:08:08] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged in with entity id 1 at (world, 645.4877, 64, 858.7)
+2019-04-02 [20:08:49] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [20:08:51] [Server thread/CRITICAL]: RuntimeException: "Tag with name "petOwner" not found and no valid default value given" (EXCEPTION) in "vendor/pocketmine/nbt/src/tag/CompoundTag" at line 189
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #0 vendor/pocketmine/nbt/src/tag/CompoundTag(284): pocketmine\nbt\tag\CompoundTag->getTagValue(string petOwner, string pocketmine\nbt\tag\StringTag, NULL , boolean )
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #1 plugins/BlockPets_dev-267.phar/src/BlockHorizons/BlockPets/pets/BasePet(110): pocketmine\nbt\tag\CompoundTag->getString(string petOwner)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #2 plugins/BlockPets_dev-267.phar/src/BlockHorizons/BlockPets/pets/IrasciblePet(28): BlockHorizons\BlockPets\pets\BasePet->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #3 src/pocketmine/entity/Entity(333): BlockHorizons\BlockPets\pets\IrasciblePet->__construct(pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #4 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/PureEntities(265): pocketmine\entity\Entity::createEntity(integer 33, pocketmine\level\Level object, pocketmine\nbt\tag\CompoundTag object)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #5 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/PureEntities(284): revivalpmmp\pureentities\PureEntities::create(integer 33, pocketmine\level\Position object)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #6 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(231): revivalpmmp\pureentities\PureEntities->scheduleCreatureSpawn(pocketmine\level\Position object, integer 33, pocketmine\level\Level object, string hostile, boolean )
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #7 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(292): revivalpmmp\pureentities\task\AutoSpawnTask->spawnPackToLevel(pocketmine\math\Vector3 object, integer 33, pocketmine\level\Level object, string hostile)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #8 plugins/PureEntitiesX.phar/src/revivalpmmp/pureentities/task/AutoSpawnTask(118): revivalpmmp\pureentities\task\AutoSpawnTask->spawnHostileMob(pocketmine\level\format\Chunk object, pocketmine\level\Level object)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #9 src/pocketmine/scheduler/TaskHandler(159): revivalpmmp\pureentities\task\AutoSpawnTask->onRun(integer 1201)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #10 src/pocketmine/scheduler/TaskScheduler(199): pocketmine\scheduler\TaskHandler->run(integer 1201)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #11 src/pocketmine/plugin/PluginManager(688): pocketmine\scheduler\TaskScheduler->mainThreadHeartbeat(integer 1201)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #12 src/pocketmine/Server(2549): pocketmine\plugin\PluginManager->tickSchedulers(integer 1201)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #13 src/pocketmine/Server(2325): pocketmine\Server->tick()
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #14 src/pocketmine/Server(2186): pocketmine\Server->tickProcessor()
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #15 src/pocketmine/Server(1765): pocketmine\Server->start()
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #16 src/pocketmine/PocketMine(250): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string /home/mcpocket/, string /home/mcpocket/plugins/)
+2019-04-02 [20:08:51] [Server thread/DEBUG]: #17 (1): require(string phar:///home/mcpocket/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2019-04-02 [20:08:51] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2019-04-02 [20:08:51] [Server thread/EMERGENCY]: Please upload the "/home/mcpocket/crashdumps/Tue_Apr_2-20.08.51-UTC_2019.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2019-04-02 [20:08:51] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/2278340 or use the ID #2278340.
+2019-04-02 [20:08:51] [Server thread/INFO]: Disabling PureEntitiesX v0.6.0
+2019-04-02 [20:08:51] [Server thread/NOTICE]: [PureEntitiesX] Disabled!
+2019-04-02 [20:08:51] [Server thread/INFO]: Disabling BlockPets v1.1.2
+2019-04-02 [20:08:51] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [20:08:51] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged out due to Server closed
+2019-04-02 [20:08:51] [Server thread/INFO]: Unloading world "world"
+2019-04-02 [20:09:52] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-02 [20:09:52] [Server thread/INFO]: Loading server properties...
+2019-04-02 [20:09:52] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-02 [20:09:52] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-02 [20:09:52] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-02 [20:09:52] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-02 [20:09:52] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-02 [20:09:52] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-02 [20:09:52] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-02 [20:09:52] [Server thread/INFO]: Loading resource packs...
+2019-04-02 [20:09:52] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-02 [20:09:52] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-02 [20:09:52] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-02 [20:09:52] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-02 [20:09:52] [Server thread/INFO]: Preparing world "world"
+2019-04-02 [20:09:53] [Server thread/INFO]: Starting GS4 status listener
+2019-04-02 [20:09:53] [Server thread/INFO]: Setting query port to 19132
+2019-04-02 [20:09:53] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-02 [20:09:53] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-02 [20:09:53] [Server thread/INFO]: Done (0.306s)! For help, type "help" or "?"
+2019-04-02 [20:10:16] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged in with entity id 1 at (world, 645.4877, 64, 858.7)
+2019-04-02 [20:10:57] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [20:11:37] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [20:11:37] [Server thread/INFO]: kareemjglover[/100.38.223.98:49742] logged out due to client disconnect
+2019-04-02 [20:29:25] [Server thread/INFO]: Tenhi what up[/76.252.175.37:52366] logged in with entity id 23 at (world, 268.1594, 67, 258.1335)
+2019-04-02 [20:29:33] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60528] logged in with entity id 45 at (world, 263.2881, 65, 250.9383)
+2019-04-02 [20:29:53] [Server thread/INFO]: Tenhi what up joined the game
+2019-04-02 [20:29:54] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-02 [20:30:29] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-02 [20:30:29] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60528] logged out due to client disconnect
+2019-04-02 [20:30:43] [Server thread/INFO]: <Tenhi what up> flip
+2019-04-02 [20:31:03] [Server thread/INFO]: <Tenhi what up> my
+2019-04-02 [20:31:09] [Server thread/INFO]: <Tenhi what up> facke
+2019-04-02 [20:33:23] [Server thread/INFO]: Tenhi what up left the game
+2019-04-02 [20:33:23] [Server thread/INFO]: Tenhi what up[/76.252.175.37:52366] logged out due to client disconnect
+2019-04-02 [20:37:14] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60528] logged in with entity id 174 at (world, 263.2881, 65, 250.9383)
+2019-04-02 [20:37:35] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-02 [20:38:25] [Server thread/INFO]: kareemjglover[/100.38.223.98:59154] logged in with entity id 229 at (world, 645.4877, 64, 858.7)
+2019-04-02 [20:39:19] [Server thread/INFO]: kareemjglover joined the game
+2019-04-02 [20:39:52] [Server thread/INFO]: [TheAwesomeKELS: Set own game mode to Creative Mode]
+2019-04-02 [20:40:36] [Server thread/INFO]: kareemjglover drowned
+2019-04-02 [20:41:07] [Server thread/INFO]: <kareemjglover> hi
+2019-04-02 [20:41:12] [Server thread/INFO]: <TheAwesomeKELS> hi
+2019-04-02 [20:41:22] [Server thread/INFO]: <kareemjglover> does it have everythung
+2019-04-02 [20:41:28] [Server thread/INFO]: <TheAwesomeKELS> yes
+2019-04-02 [20:41:50] [Server thread/INFO]: <TheAwesomeKELS> what happened to my wolf
+2019-04-02 [20:41:59] [Server thread/INFO]: <kareemjglover> okay look at the link and let me know what mods you want me to add
+2019-04-02 [20:42:10] [Server thread/INFO]: <TheAwesomeKELS> ok
+2019-04-02 [20:42:18] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-02 [20:42:18] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60528] logged out due to client disconnect
+2019-04-02 [20:56:58] [Server thread/INFO]: [kareemjglover: Set own game mode to Creative Mode]
+2019-04-02 [21:02:05] [Server thread/INFO]: [kareemjglover: Set own game mode to Survival Mode]
+2019-04-02 [21:10:26] [Server thread/INFO]: kareemjglover left the game
+2019-04-02 [21:10:26] [Server thread/INFO]: kareemjglover[/100.38.223.98:59154] logged out due to timeout
+2019-04-02 [21:49:44] [Server thread/NOTICE]: Player data not found for "samurai reaperx", creating new profile
+2019-04-02 [21:49:46] [Server thread/INFO]: Samurai ReaperX[/45.37.41.170:40895] logged in with entity id 1027 at (world, 256, 65, 256)
+2019-04-02 [21:50:04] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60447] logged in with entity id 1072 at (world, 285.3292, 65, 254.0434)
+2019-04-02 [21:50:22] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-02 [21:50:23] [Server thread/INFO]: Samurai ReaperX joined the game
+2019-04-02 [21:52:02] [Server thread/INFO]: Samurai ReaperX was slain by Spider
+2019-04-02 [21:52:28] [Server thread/INFO]: Samurai ReaperX left the game
+2019-04-02 [21:52:28] [Server thread/INFO]: Samurai ReaperX[/45.37.41.170:40895] logged out due to client disconnect
+2019-04-02 [21:53:14] [Server thread/INFO]: Samurai ReaperX[/45.37.41.170:40895] logged in with entity id 1246 at (world, 256, 65, 256)
+2019-04-02 [21:53:21] [Server thread/INFO]: [TheAwesomeKELS: Teleported TheAwesomeKELS to Samurai ReaperX]
+2019-04-02 [21:53:55] [Server thread/INFO]: Samurai ReaperX joined the game
+2019-04-02 [21:54:19] [Server thread/INFO]: Samurai ReaperX was blown up by Creeper
+2019-04-02 [21:56:13] [Server thread/INFO]: [TheAwesomeKELS: Opped Samurai ReaperX]
+2019-04-02 [21:56:22] [Server thread/INFO]: [TheAwesomeKELS: Teleported Samurai ReaperX to TheAwesomeKELS]
+2019-04-02 [21:57:43] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-02 [21:57:43] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60447] logged out due to client disconnect
+2019-04-02 [21:59:50] [Server thread/INFO]: Samurai ReaperX died
+2019-04-02 [22:03:31] [Server thread/INFO]: Samurai ReaperX left the game
+2019-04-02 [22:03:31] [Server thread/INFO]: Samurai ReaperX[/45.37.41.170:40895] logged out due to client disconnect
+2019-04-03 [00:11:15] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60120] logged in with entity id 1599 at (world, 329.2195, 65.4669, 244.4946)
+2019-04-03 [00:11:35] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-03 [00:13:23] [Server thread/INFO]: TheAwesomeKELS died
+2019-04-03 [00:13:44] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-03 [00:13:44] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60120] logged out due to Kicked by admin.
+2019-04-03 [00:13:44] [Server thread/INFO]: [TheAwesomeKELS: Kicked TheAwesomeKELS from the game]
+2019-04-03 [00:13:53] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60120] logged in with entity id 1739 at (world, 256.5, 65.001, 256.5)
+2019-04-03 [00:14:12] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-03 [00:14:37] [Server thread/INFO]: [TheAwesomeKELS: Banned player samurai]
+2019-04-03 [00:14:48] [Server thread/INFO]: [TheAwesomeKELS: Unbanned player samurai]
+2019-04-03 [00:15:16] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-03 [00:15:16] [Server thread/INFO]: TheAwesomeKELS[/76.252.175.37:60120] logged out due to client disconnect
+2019-04-03 [00:20:19] [Server thread/INFO]: kareemjglover[/64.9.247.152:33615] logged in with entity id 1785 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [00:20:47] [Server thread/INFO]: kareemjglover[/64.9.247.152:33615] logged out due to client disconnect
+2019-04-03 [11:24:29] [Server thread/INFO]: kareemjglover[/64.9.251.21:56689] logged in with entity id 1795 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [11:25:25] [Server thread/INFO]: kareemjglover[/64.9.251.21:56689] logged out due to client disconnect
+2019-04-03 [11:25:37] [Server thread/INFO]: kareemjglover[/64.9.251.21:56689] logged in with entity id 1813 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [11:26:17] [Server thread/INFO]: kareemjglover[/64.9.251.21:56689] logged out due to client disconnect
+2019-04-03 [11:58:34] [Server thread/INFO]: kareemjglover[/64.9.251.21:7396] logged in with entity id 1832 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [12:00:53] [Server thread/INFO]: kareemjglover[/64.9.251.21:7396] logged out due to client disconnect
+2019-04-03 [12:08:03] [Server thread/INFO]: TheAwesomeKELS[/174.203.6.15:9018] logged in with entity id 1869 at (world, 294.2893, 67, 268.0497)
+2019-04-03 [12:08:07] [Server thread/INFO]: TheAwesomeKELS joined the game
+2019-04-03 [12:08:40] [Server thread/INFO]: TheAwesomeKELS left the game
+2019-04-03 [12:08:40] [Server thread/INFO]: TheAwesomeKELS[/174.203.6.15:9018] logged out due to client disconnect
+2019-04-03 [12:13:12] [Server thread/INFO]: kareemjglover[/64.9.251.21:34457] logged in with entity id 1936 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [12:13:31] [Server thread/INFO]: kareemjglover[/64.9.251.21:34457] logged out due to client disconnect
+2019-04-03 [16:24:39] [Server thread/INFO]: kareemjglover[/64.9.251.21:33321] logged in with entity id 1943 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [16:25:37] [Server thread/INFO]: kareemjglover[/64.9.251.21:33321] logged out due to client disconnect
+2019-04-03 [21:14:35] [Server thread/INFO]: kareemjglover[/64.9.251.21:54812] logged in with entity id 1956 at (world, 274.4327, 53, 211.7322)
+2019-04-03 [21:15:53] [Server thread/INFO]: kareemjglover[/64.9.251.21:54812] logged out due to client disconnect
+2019-04-05 [11:42:43] [Server thread/INFO]: kareemjglover[/64.9.251.34:18936] logged in with entity id 1974 at (world, 274.4327, 53, 211.7322)
+2019-04-05 [11:44:35] [Server thread/INFO]: kareemjglover[/64.9.251.34:18936] logged out due to client disconnect
+2019-04-05 [11:47:34] [Server thread/INFO]: kareemjglover[/173.129.43.41:62566] logged in with entity id 1989 at (world, 274.4327, 53, 211.7322)
+2019-04-05 [11:48:36] [Server thread/INFO]: kareemjglover[/173.129.43.41:62566] logged out due to timeout
+2019-04-05 [11:50:37] [Server thread/INFO]: kareemjglover[/174.202.28.123:1845] logged out due to client disconnect
+2019-04-05 [11:51:03] [Server thread/INFO]: kareemjglover[/174.202.28.123:1845] logged in with entity id 2046 at (world, 274.4327, 53, 211.7322)
+2019-04-05 [11:51:05] [Server thread/INFO]: kareemjglover joined the game
+2019-04-05 [11:54:14] [Server thread/INFO]: kareemjglover left the game
+2019-04-05 [11:54:14] [Server thread/INFO]: kareemjglover[/174.202.28.123:1845] logged out due to client disconnect
+2019-04-05 [13:57:06] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-05 [13:57:06] [Server thread/INFO]: Loading server properties...
+2019-04-05 [13:57:06] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-05 [13:57:06] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-05 [13:57:06] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-05 [13:57:06] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-05 [13:57:06] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-05 [13:57:06] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-05 [13:57:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-05 [13:57:06] [Server thread/INFO]: Loading resource packs...
+2019-04-05 [13:57:06] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-05 [13:57:07] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-05 [13:57:07] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-05 [13:57:07] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-05 [13:57:07] [Server thread/INFO]: Preparing world "world"
+2019-04-05 [13:57:07] [Server thread/INFO]: Starting GS4 status listener
+2019-04-05 [13:57:07] [Server thread/INFO]: Setting query port to 19132
+2019-04-05 [13:57:07] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-05 [13:57:07] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-05 [13:57:07] [Server thread/INFO]: Done (0.328s)! For help, type "help" or "?"
+2019-04-05 [14:36:41] [Server thread/INFO]: kareemjglover[/64.9.251.34:24601] logged in with entity id 1 at (world, 272.0331, 66, 200.991)
+2019-04-05 [14:42:55] [Server thread/INFO]: kareemjglover[/64.9.251.34:24601] logged out due to timeout
+2019-04-06 [20:59:28] [Server thread/INFO]: kareemjglover[/64.9.251.33:17235] logged in with entity id 30 at (world, 272.0331, 66, 200.991)
+2019-04-06 [20:59:59] [Server thread/INFO]: kareemjglover[/64.9.251.33:17235] logged out due to client disconnect
+2019-04-06 [21:33:24] [Server thread/INFO]: kareemjglover[/172.56.3.144:40893] logged in with entity id 33 at (world, 272.0331, 66, 200.991)
+2019-04-06 [21:33:27] [Server thread/INFO]: kareemjglover joined the game
+2019-04-06 [21:40:55] [Server thread/INFO]: <kareemjglover> help
+2019-04-06 [21:41:23] [Server thread/INFO]: [kareemjglover: Set own game mode to Creative Mode]
+2019-04-06 [21:43:33] [Server thread/INFO]: kareemjglover left the game
+2019-04-06 [21:43:33] [Server thread/INFO]: kareemjglover[/172.56.3.144:40893] logged out due to client disconnect
+2019-04-06 [21:49:45] [Server thread/INFO]: kareemjglover[/172.56.2.4:39999] logged in with entity id 254 at (world, 273.3565, 64, 206.0851)
+2019-04-06 [21:49:48] [Server thread/INFO]: kareemjglover joined the game
+2019-04-06 [21:59:14] [Server thread/INFO]: kareemjglover left the game
+2019-04-06 [21:59:14] [Server thread/INFO]: kareemjglover[/172.56.2.4:39999] logged out due to client disconnect
+2019-04-07 [01:56:48] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged in with entity id 423 at (world, 276.3699, 53, 209.6138)
+2019-04-07 [01:56:51] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [01:58:14] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [01:58:14] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged out due to client disconnect
+2019-04-07 [02:00:23] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged in with entity id 496 at (world, 276.8857, 53, 208.9194)
+2019-04-07 [02:00:26] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [02:33:18] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [02:33:18] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged out due to client disconnect
+2019-04-07 [02:38:59] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged in with entity id 791 at (world, 278.9036, 53, 211.1078)
+2019-04-07 [02:39:02] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [03:16:53] [Server thread/INFO]: [kareemjglover: Set own game mode to Survival Mode]
+2019-04-07 [03:19:53] [Server thread/INFO]: kareemjglover was blown up by Creeper
+2019-04-07 [03:20:46] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [03:20:46] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged out due to client disconnect
+2019-04-07 [03:25:52] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged in with entity id 1355 at (world, 256, 70, 256)
+2019-04-07 [03:26:02] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [03:32:24] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [03:32:24] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged out due to client disconnect
+2019-04-07 [13:57:08] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged in with entity id 1494 at (world, 271.3, 53, 209.1346)
+2019-04-07 [13:57:10] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [14:06:33] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [14:06:33] [Server thread/INFO]: kareemjglover[/100.38.223.98:53582] logged out due to client disconnect
+2019-04-07 [15:47:17] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-07 [15:47:17] [Server thread/INFO]: Loading server properties...
+2019-04-07 [15:47:17] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-07 [15:47:17] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-07 [15:47:17] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-07 [15:47:17] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-07 [15:47:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-07 [15:47:17] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-07 [15:47:17] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-07 [15:47:17] [Server thread/INFO]: Loading resource packs...
+2019-04-07 [15:47:17] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-07 [15:47:17] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-07 [15:47:17] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-07 [15:47:17] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-07 [15:47:18] [Server thread/INFO]: Preparing world "world"
+2019-04-07 [15:47:18] [Server thread/INFO]: Starting GS4 status listener
+2019-04-07 [15:47:18] [Server thread/INFO]: Setting query port to 19132
+2019-04-07 [15:47:18] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-07 [15:47:18] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-07 [15:47:18] [Server thread/INFO]: Done (0.311s)! For help, type "help" or "?"
+2019-04-07 [15:48:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:48:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:48:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:50:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:50:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:50:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:51:14] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:51:14] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [15:51:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [16:00:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [16:00:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [16:00:04] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [16:32:16] [Server thread/INFO]: kareemjglover[/100.38.223.98:64846] logged in with entity id 1 at (world, 273.2512, 52, 211.6481)
+2019-04-07 [16:32:57] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [16:38:30] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [16:38:30] [Server thread/INFO]: kareemjglover[/100.38.223.98:64846] logged out due to timeout
+2019-04-07 [16:40:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2019-04-07 [16:45:01] [Server thread/INFO]: Loading pocketmine.yml...
+2019-04-07 [16:45:01] [Server thread/INFO]: Loading server properties...
+2019-04-07 [16:45:01] [Server thread/INFO]: Selected English (eng) as the base language
+2019-04-07 [16:45:01] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.10.0
+2019-04-07 [16:45:01] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-04-07 [16:45:01] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-04-07 [16:45:01] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-04-07 [16:45:01] [Server thread/INFO]: This server is running PocketMine-MP version 3.7.1
+2019-04-07 [16:45:01] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-04-07 [16:45:01] [Server thread/INFO]: Loading resource packs...
+2019-04-07 [16:45:01] [Server thread/INFO]: Loading PureEntitiesX v0.6.0
+2019-04-07 [16:45:01] [Server thread/INFO]: [PureEntitiesX] Originally written by milk0417. Currently maintained by RevivalPMMP for PMMP 'REDACTED'.
+2019-04-07 [16:45:01] [Server thread/INFO]: Enabling PureEntitiesX v0.6.0
+2019-04-07 [16:45:01] [Server thread/NOTICE]: [PureEntitiesX] Configuration loaded: [enableNBT:1] [enableSpawn:1] [enableAsyncTasks:1] [enableLookingTasks:1] [loggingEnabled:] [findPartnerDistance:49] [interactDistance:3] [teleportTamedDistance:20] [tamedFollowDistance:14] [blockOfInterestTicks:100] [checkTargetSkipTicks:5] [pickupLootTicks:10] [interactiveButtonCorrection:1] [useBlockLight:] [useSkyLight:] [emitLoveParticles:1] [xpEnabled:] [idleChance:80] [idleMin:100] [idleMax:500] [idleTimeBetween:20secs] [panicEnabled:1] [panicTicks:100] [entityMaxAge:72000]
+2019-04-07 [16:45:01] [Server thread/INFO]: Preparing world "world"
+2019-04-07 [16:45:01] [Server thread/INFO]: Starting GS4 status listener
+2019-04-07 [16:45:01] [Server thread/INFO]: Setting query port to 19132
+2019-04-07 [16:45:01] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2019-04-07 [16:45:01] [Server thread/INFO]: Default game type: Survival Mode
+2019-04-07 [16:45:01] [Server thread/INFO]: Done (0.578s)! For help, type "help" or "?"
+2019-04-07 [16:47:15] [Server thread/INFO]: kareemjglover[/100.38.223.98:64846] logged in with entity id 1 at (world, 273.2512, 52, 211.6481)
+2019-04-07 [16:47:44] [Server thread/INFO]: kareemjglover joined the game
+2019-04-07 [16:49:06] [Server thread/INFO]: kareemjglover left the game
+2019-04-07 [16:49:06] [Server thread/INFO]: kareemjglover[/100.38.223.98:64846] logged out due to timeout
